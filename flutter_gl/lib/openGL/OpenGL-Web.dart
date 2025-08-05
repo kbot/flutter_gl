@@ -1,4 +1,4 @@
-import 'dart:ui' as ui;
+import 'dart:ui_web' as ui;
 import 'dart:html';
 
 import './OpenGL-Base.dart';
